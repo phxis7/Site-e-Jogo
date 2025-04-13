@@ -30,6 +30,7 @@ body {
     top: 20px;
     right: 20px;
     cursor: pointer;
+    z-index: 1000;
   }
   
   nav {
@@ -162,6 +163,7 @@ body {
       align-items: center;
       gap: 12px;
       width: 100%;
+      margin-top: 10px;
     }
   
     nav ul.open {
